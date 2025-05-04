@@ -25,7 +25,7 @@ Aplikasi ini sangat cocok untuk jadi asisten kecil kamu setiap pagi — langsung
 1. Clone repo atau download file Python-nya
 
 ```bash
-git clone https://github.com/username/personal-daily-dashboard.git
+git clone https://github.com/Rasenpai/Personal-Daily.git
 cd personal-daily-dashboard
 ```
 
