@@ -26,7 +26,6 @@ Aplikasi ini sangat cocok untuk jadi asisten kecil kamu setiap pagi — langsung
 
 ```bash
 git clone https://github.com/Rasenpai/Personal-Daily.git
-cd personal-daily-dashboard
 ```
 
 2. Install dependensi:
@@ -40,7 +39,7 @@ pip install requests colorama
 ## 🚀 Cara Menjalankan
 
 ```bash
-python dashboard.py
+py PersonalDaily.py
 ```
 
 Lalu ikuti instruksi masukkan nama kota.
